@@ -1,5 +1,5 @@
 export async function onRequest(context) {
-  const GAS_ID = "AKfycbz...GANTI_ID_APPS_SCRIPT_KAMU..."; 
+  const GAS_ID = "AKfycbxTwB7uGEwQ6nRXfvk_wd7OF3eolR5qYVSidb-RPgY7pBf8JWq4Oh_lOUXUNd7_Im7V"; 
   const GAS_URL = `https://script.google.com/macros/s/${GAS_ID}/exec`;
 
   // Ambil url param ?id=ID_SPREADSHEET yang tadi kamu mau
